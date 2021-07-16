@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -36,41 +36,32 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Charts.v20.2.Core, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Charts.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Charts.v20.2.Core.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v20.2, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Data.Desktop.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Data.Desktop.v20.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Data.v20.2, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Data.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Data.v20.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Mvvm.v20.2, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Mvvm.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Mvvm.v20.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Printing.v20.2.Core, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Printing.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Printing.v20.2.Core.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Charts.v20.2, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Xpf.Charts.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Xpf.Charts.v20.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Core.v20.2, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Xpf.Core.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Xpf.Core.v20.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Grid.v20.2, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Xpf.Grid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Xpf.Grid.v20.2.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Grid.v20.2.Core, Version=20.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Xpf.Grid.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Work\Sources\2020.2\Bin\Framework4\DevExpress.Xpf.Grid.v20.2.Core.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
